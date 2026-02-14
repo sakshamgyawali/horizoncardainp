@@ -89,5 +89,3 @@ horizoncard-ai/
 - The frontend communicates only with the local proxy, ensuring no keys are exposed in the browser.
 - CORS is enabled to allow frontend-backend communication.
 
-## 📄 License
-MIT
